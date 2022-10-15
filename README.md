@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jinsim's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jinsim's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
 ## ✏️ Education
 
