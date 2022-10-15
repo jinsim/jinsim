@@ -1,13 +1,12 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsim&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsim&layout=compact)](https://github.com/jinsim/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jinsim's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling)
 
 ## ✏️ Education
 
 (2018.03 ~  )     고려대학교 보건환경융합과학부
 
 (2020.05 ~  )     고려대학교 소프트웨어벤처학부융합전공
+
+<br/>
 
 ## 📋  Activities
 
@@ -25,6 +24,7 @@
 
 (2021.06 ~ 2023.03)     사회복무요원 근무
 
+<br/>
 
 ## 📌  Projects
 
@@ -48,4 +48,11 @@
     - 프론트엔드, 백엔드 작업
     - 개발 환경설정, 인프라 구축, 로깅, 데이터베이스 설정 및 조작, 크롤러와 메시지큐 제작 및 최적화 등 난이도가 높거나 운영에 관련된 부분 작업
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
+
+## 🧑🏻‍💻 Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsim&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsim&layout=compact&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0)](https://github.com/jinsim/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsim&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
