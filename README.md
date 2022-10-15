@@ -52,7 +52,8 @@
 
 ## 🧑🏻‍💻 Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsim&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsim&layout=compact&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0)](https://github.com/jinsim/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinsim&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsim&layout=compact&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsim&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
