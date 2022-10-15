@@ -1,5 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:c0c0c0&height=180&section=header&text=Jinsim's%20Github%20Page&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=twinkling)
 
+## 🧑🏻‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinsim&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsim&layout=compact&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsim&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<br/>
+
 ## ✏️ Education
 
 (2018.03 ~  )     고려대학교 보건환경융합과학부
@@ -22,7 +32,7 @@
 
 (2021.04 ~ 2022.01)     고려대학교 멋쟁이 사자처럼 9기 운영진
 
-(2021.06 ~ 2023.03)     사회복무요원 근무
+(2021.06 ~ 2023.03)     용산구청 사회복무요원 복무
 
 <br/>
 
@@ -47,13 +57,3 @@
     - 프론트엔드, 백엔드로 구성된 개발팀 교육 및 코드리뷰
     - 프론트엔드, 백엔드 작업
     - 개발 환경설정, 인프라 구축, 로깅, 데이터베이스 설정 및 조작, 크롤러와 메시지큐 제작 및 최적화 등 난이도가 높거나 운영에 관련된 부분 작업
-
-<br/>
-
-## 🧑🏻‍💻 Github Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinsim&show_icons=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsim&layout=compact&icon_color=ffffff&title_color=ffffff&text_color=000000&bg_color=c0c0c0" />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsim&count_bg=%23C0C0C0&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
